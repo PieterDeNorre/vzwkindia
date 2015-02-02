@@ -1,0 +1,784 @@
+@charset "UTF-8";
+html {
+	margin:0;
+	padding:0;
+}
+
+body{
+	margin:0;
+	width:100%;
+	height:100%;
+	background-image:url('../img/bg/bg_grey_1.png');
+	background-repeat:repeat;
+}
+
+#wrapper {
+	width: 1200px;
+	margin: auto;
+    padding-top:60px;
+}
+#home #wrapper {height: 1400px;}
+#doel #wrapper {height: 1400px;}
+#help #wrapper {height: 2500px;}
+#project #wrapper {height: 2300px;}
+#budget #wrapper {height: 2500px;}
+#verslag #wrapper {height: 9400px;}
+#contact #wrapper {height: 1800px;}
+
+
+/* HEADER */
+
+#header {
+	margin-top:0px;
+	width:100%;
+	height:160px;
+	background-image: url('../img/bg/bg_grey_5.png');
+}
+
+#logo {
+	width:1200px;
+	margin:auto;
+	height:160px;
+}
+
+#logobeeld {
+	float:left;
+	width:80px;
+	height:100%;
+	background-image:url('../img/L_Kindia_3.png');
+	background-repeat:no-repeat;
+    background-position:center
+} 
+
+#kindia {
+	padding-left: 40px;
+    margin-top: 0px;
+	height:150px;
+    width:800px;
+	float:left; 
+    vertical-align: middle; 
+    
+}
+
+#kindia h1{
+    font-family: 'Swanky and Moo Moo', cursive;
+	font-size:100pt;
+	font-weight:800;
+	color: #ff8a04;
+    margin-top: 13px;
+}
+#contact #kindia h1{
+    font-family: 'Swanky and Moo Moo', cursive;
+	font-size:100pt;
+	font-weight:800;
+	color: #ff8a04;
+    margin-top: 13px;
+}
+
+/* NAVIGATION */
+
+#navbar {
+	width: 100%;
+	text-align: center;
+	background-image: url('../img/bg/bg_grey_5.png');
+}
+
+#social {
+    display: block;
+    float:right;
+    height:38px;
+    width:38px;
+    background-image:url('../img/icons/facebook_footer_30.png');
+    background-repeat:no-repeat;
+    background-position:center;
+    background-size:60%;
+}
+   
+#social:hover {
+    display: block;
+    float:right;
+    height:38px;
+    width:38px;
+    background-image:url('../img/icons/facebook_footer_orange.png');
+    background-repeat:no-repeat;
+    background-position:center;
+    background-size:60%;
+}
+
+nav {
+	display: block;
+	overflow: hidden;
+	width: 1200px;
+	margin: auto;
+}
+
+nav ul {
+	width:1200px;
+	float: left;
+	list-style: none;
+	text-align: center;
+
+}
+
+nav li {
+	float:left;
+    margin-right: 10px;
+	display: inline;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    background-image: url('../img/bg/bg_grey_5.png');
+
+}
+
+nav a {
+	float:left;
+	padding: .2em 0.8em;
+	text-decoration: none;
+	color: #bfb5b3;
+	font: 600 18pt 'Swanky and Moo Moo', cursive;
+	letter-spacing: 0px;       
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+
+ }
+ 
+nav a:hover, nav a:focus {
+	color: #ff7300;
+	background-image: url('../img/bg/bg_grey_5.png');
+    letter-spacing: 0px;
+
+}
+
+#home .home, 
+#doel .doel, 
+#help .help, 
+#project .project, 
+#budget .budget, 
+#realisatie .realisatie, 
+#verslag .verslag, 
+#contact .contact {
+	background-image: url('../img/bg/bg_grey_1.png');
+	color: #ff7300;
+    font: 800 18pt 'Swanky and Moo Moo', cursive;
+    letter-spacing: 0px;
+    }
+ 
+
+/* SLIDESHOWS  */
+#nav{
+    margin-top:0px;
+   	width: 800px; 
+   	height: 500px; 
+    float:right;
+    padding: 15px;
+    border-radius: 5px;
+    background-image: url('../img/bg/bg_grey_5.png');
+}
+
+#slideshow { 
+    margin-top:0px;
+   	width: 800px; 
+   	height: 500px; 
+    background-image: url('../img/bg/bg_grey_5.png');
+    border-radius: 5px;
+}
+
+#slideshow > div { 
+	position: absolute; 
+}
+
+#slideshowproject { 
+    margin-top:0px;
+   	width: 1200px; 
+   	height: 500px; 
+    padding: 30px 0 30px 0;
+    border-radius: 10px;
+    background-color: rgba(191, 181, 179, 0.54);
+}
+
+#slideshowproject > div { 
+	position: absolute;
+}
+
+#prev {
+    position:absolute;
+    z-index:1;
+    float:left;
+    background-image: url('../img/icons/prev_orange.png');
+    background-repeat:no-repeat;
+    background-position: center;
+    background-size:80%;
+    height:30px;
+    width:30px;
+    margin-top:235px;
+    margin-left:10px;
+}
+
+#next {
+    position:absolute;
+    z-index:1;
+    float:right;
+    background-image: url('../img/icons/more_orange.png');
+    background-repeat:no-repeat;
+    background-position: center;
+    background-size:80%;
+    height:30px;
+    width:30px;
+    margin-top:235px;
+    margin-right:5px;
+    margin-left:760px;
+}
+
+#prev:hover {
+    position:absolute;
+    z-index:1;
+    float:left;
+    background-image: url('../img/icons/prev.png');
+    background-repeat:no-repeat;
+    background-position: center;
+    background-size:80%;
+    height:30px;
+    width:30px;
+    margin-top:235px;
+    margin-left:10px;
+}
+
+#next:hover {
+    position:absolute;
+    z-index:1;
+    float:right;
+    background-image: url('../img/icons/more.png');
+    background-repeat:no-repeat;
+    background-position: center;
+    background-size:80%;
+    height:30px;
+    width:30px;
+    margin-top:235px;
+    margin-right:5px;
+    margin-left:760px;
+}
+
+/* NAVSLIDESHOW PROJECTEN */
+
+#prevproj {
+    position:absolute;
+    z-index:1;
+    float:left;
+    background-image: url('../img/icons/prev_orange.png');
+    background-repeat:no-repeat;
+    background-position: center;
+    background-size:80%;
+    height:30px;
+    width:30px;
+    margin-top:265px;
+    margin-left:10px;
+}
+
+#nextproj {
+    position:absolute;
+    z-index:1;
+    float:right;
+    background-image: url('../img/icons/more_orange.png');
+    background-repeat:no-repeat;
+    background-position: center;
+    background-size:80%;
+    height:30px;
+    width:30px;
+    margin-top:265px;
+    margin-right:5px;
+    margin-left:1160px;
+}
+#prevproj:hover {
+    position:absolute;
+    z-index:1;
+    float:left;
+    background-image: url('../img/icons/prev.png');
+    background-repeat:no-repeat;
+    background-position: center;
+    background-size:80%;
+    height:30px;
+    width:30px;
+    margin-top:265px;
+    margin-left:10px;
+}
+
+#nextproj:hover {
+    position:absolute;
+    z-index:1;
+    float:right;
+    background-image: url('../img/icons/more.png');
+    background-repeat:no-repeat;
+    background-position: center;
+    background-size:80%;
+    height:30px;
+    width:30px;
+    margin-top:265px;
+    margin-right:5px;
+    margin-left:1160px;
+}
+
+#kaartproject {
+    position:absolute;
+    z-index:99;
+    height: 25px;
+    width: 80px;
+    font-family: 'open sans', sans-serif;
+	font-size:10pt;
+    Line-height:25px;
+	font-weight:800;
+	color: #414141;
+    text-align:center;
+}
+
+.bangaon {
+    margin-left:940px;
+    margin-top: -100px;
+}
+
+.ashalayam {
+    margin-left:595px;
+    margin-top: -205px;
+}
+
+.howrah {
+    margin-left:790px;
+    margin-top: -170px;
+}
+
+.sarawatipur {
+    margin-left:700px;
+    margin-top: -420px;
+}
+
+
+/* INFO */
+
+
+
+#evenementen {
+    background-image: url("../img/bg/bg_orange_2.png");
+	margin-top: 0px;
+	float: left;
+	min-width: 300px;
+	min-height: 470px;
+    overflow: hidden;
+    padding: 15px;
+    border: 15px #414141 solid;
+    border-radius: 5px;
+}
+
+#contentevenementen {
+    text-align: center;
+    width: 100%;
+    height: 100%;
+    font-family:'Swanky and Moo Moo', cursive;
+    font-size: 23pt;
+    line-height:21pt;
+    color: #FFF;
+    font-weight:400;
+    padding-bottom:0px;
+    letter-spacing: 1px;
+    overflow: hidden;
+}
+
+#contentevenementen a {
+    position: relative;
+    bottom: 0;
+    display:block;
+    height:35px;
+    padding-top:10px;
+    background-image:url('../img/bg/bg_grey_5.png');
+    border-radius: 5px;
+    text-align:center;
+    text-decoration: none;
+    font-family:'Swanky and Moo Moo', cursive;
+    font-size:16pt;
+    color:#fff;
+}
+
+#contentevenementen a:hover {
+    position: relative;
+    bottom: 0;
+    display:block;
+    height:35px;
+    padding-top:10px;
+    background-image:url('../img/bg/bg_grey_4.png');
+    border-radius: 5px;
+    text-align:center;
+    text-decoration: none;
+    font-family:'Swanky and Moo Moo', cursive;
+    font-size:16pt;
+    color:#ff7300;
+}
+#contentevenementen h2 {
+    color:#414141;
+    margin-top: 20px;
+    font-family:'Swanky and Moo Moo', cursive;
+    font-size: 40pt;
+    font-weight:800;
+    letter-spacing: 1px;
+  
+}
+#contentevenementen h2 #date {
+    color:#fff;
+    font-family:'Swanky and Moo Moo', cursive;
+    letter-spacing: 1px;
+    font-weight:300;
+}
+
+#contentevenementen #orange {
+    color:#414141;
+    font-family:'Swanky and Moo Moo', cursive;
+    letter-spacing: 1px;
+  
+}
+
+/* Content */
+
+#content {
+    width: 820px;
+    margin-top:0px;
+    margin-bottom: 0px;
+    color: #7f7977;
+    float: left; 
+}
+
+#project #content, #contact #content {
+    width: 1200px;
+    margin-top:0px;
+    margin-bottom: 60px;
+    color: #7f7977;
+    float: left; 
+}
+
+#content h1{
+    font-family: 'open sans', sans-serif;
+	font-size:24pt;
+	font-weight:800;
+	color: #ff8a04;
+    margin: 30px 20px 40px 0px;
+    padding-top:30px;
+}
+#contact h1 {
+    font-family: 'open sans', sans-serif;
+	font-size:24pt;
+	font-weight:800;
+	color: #ff8a04;
+    margin: 60px 20px 40px 0px;
+}
+#content h2 {
+    font-family: 'open sans', sans-serif;
+	font-size:16pt;
+	font-weight:800;
+	color: #666;
+    margin: 40px 20px 0px 0px;
+}
+
+#content h2 i{
+    font-family: 'open sans', sans-serif;
+	font-size:12pt;
+	font-weight:200;
+    font-style:italic;
+	color: #666;
+    margin: 40px 20px 0px 20px;
+}
+
+#content p {
+    font-family: 'open sans', sans-serif;
+	font-size:12pt;
+    Line-height:28px;
+	font-weight:100;
+    margin: 10px 50px 20px 0px;
+}
+
+#content b {
+    font-family: 'open sans', sans-serif;
+	font-size:12pt;
+    Line-height:25px;
+	font-weight:600;
+	color: #7f7977;
+}
+
+#content a {
+    font-family: 'open sans', sans-serif;
+	font-size:12pt;
+	font-weight:600;
+    letter-spacing:1px;
+	color: rgba(255, 138, 4, 0.7);
+    text-decoration: none;
+}
+
+#content a:hover {
+    font-family: 'open sans', sans-serif;
+	font-size:12pt;
+    Line-height:25px;
+	font-weight:600;
+    letter-spacing:1px;
+	color: #ff8a04;
+    text-decoration: none;    
+}
+
+
+/* PROJECTEN */
+
+#ashalayam, #howrah, #bangaon, #sarawatipur{ 
+    padding: 10px 0px 30px 0px;
+    border-bottom:3px dotted rgba(191, 181, 179, 0.30);
+    height:330px;
+}
+
+#bangaon {
+    border-top:1px solid rgba(191, 181, 179, 0.90);
+}
+
+#verslag2012{ 
+    padding: 30px 0px 30px 0px;
+    border-bottom:3px dotted rgba(191, 181, 179, 0.30);
+}
+
+#verslag2012-1 {
+    padding: 30px 0px 30px 0px;
+    border-bottom:3px dotted rgba(191, 181, 179, 0.30);
+    border-top:1px solid rgba(191, 181, 179, 0.90);
+}
+
+/* MINISLIDESHOWS PROJECTEN */
+
+#slideproj1, #slideproj3{
+    position:relative;
+    width:300px;
+    height:280px;
+    margin-top:40px;
+    float:left;
+    overflow: hidden;
+    margin-right:20px;
+    border-radius: 10px;
+}
+
+#slideproj1 > div, #slideproj3 > div, #slideproj2 > div, #slideproj4 > div { 
+	position: absolute;
+    width:100%;
+    height:280px;
+}
+
+#slideproj2, #slideproj4 {
+    position:relative;
+    width:300px;
+    height:280px;
+    margin-top:40px;
+    float:right;
+    overflow: hidden;
+    margin-left:20px;
+    border-radius: 10px;
+}
+
+#projecten {
+    font-family: 'Open Sans', sans-serif;
+    color: #625e5c;
+   	margin-top: 60px;
+	float: right;
+	width: 330px;
+    overflow:auto;
+    background-image: url('../img/bg/bg_grey_2.png');
+    padding:15px 15px 15px 15px;
+    border-radius: 5px;
+    box-shadow: 0px -2px 10px #666;
+}
+
+#doel #projecten {height: 800px;}
+#home #projecten {height: 800px;}
+#help #projecten {height: 1900px;}
+#budget #projecten {height: 1900px;}
+#verslag #projecten {height: 8780px;}
+
+#projecten h1 a {
+    display: block;
+    color: #666;
+    text-decoration: none;
+    padding-bottom: 010px;
+    margin-bottom: 30px;
+    font: 800 30pt 'Swanky and Moo Moo', cursive;
+	letter-spacing: 0px;       
+    border-bottom: 1px #666 solid;
+}
+#projecten h1 a:hover {
+    display: block;
+    color: #ff7300;
+    text-decoration: none;
+    padding-bottom: 010px;
+    margin-bottom: 30px;
+    font: 800 30pt 'Swanky and Moo Moo', cursive;
+	letter-spacing: 0px;       
+    -webkit-font-smoothing: antialiased;
+    border-bottom: 1px #666 solid;
+}
+
+#proj {
+    border-radius: 5px;
+    padding: 15px;
+    background-image: url('../img/bg/bg_grey_4.png');
+    margin-bottom: 15px;
+        box-shadow: 0px -2px 10px #666;
+}
+
+#proj h2 {
+    font-family: 'open sans', sans-serif;
+	font-size:14pt;
+    Line-height:25px;
+    font-weight:800;
+	color: #ff7300;
+    margin-bottom: 5px;
+    -webkit-font-smoothing: antialiased;
+}
+
+#proj p {
+    font-family: 'open sans', sans-serif;
+	font-size:12pt;
+    Line-height:28px;
+	font-weight:100;
+    margin: 10px 10px 0px 0px;
+    color: #FFF;
+    -webkit-font-smoothing: antialiased;
+}
+#proj p b {
+    font-family: 'open sans', sans-serif;
+	font-size:12pt;
+    Line-height:28px;
+	font-weight:800;
+    margin: 20px 10px 0px 0px;
+    color: #FFF;
+    -webkit-font-smoothing: antialiased;
+}
+
+#more {
+    display: block;
+    margin-right:3px;
+    margin-top:3px;
+    float:right;
+    height:20px;
+    width:85px;
+    font-family: 'open sans', sans-serif;
+	font-size:9pt;
+    color:#8e8784;
+    background-image:url('../img/icons/more.png');
+    background-repeat:no-repeat;
+    background-position:right;
+    -webkit-font-smoothing: antialiased;
+}
+
+#more i {
+    display: block;
+    position:inherit;
+    vertical-align:middle;
+    margin-top: 5px;
+}
+   
+#more:hover {
+    color: #bfb5b3;
+    display: block;
+    float:right;
+    height:20px;
+    width:85px;
+    font-family: 'open sans', sans-serif;
+	font-size:9pt;
+    background-image:url('../img/icons/more_orange.png');
+    background-repeat:no-repeat;
+    background-position:right;
+
+}
+/* FOOTER */
+
+#footer {
+	position: relative;
+	bottom: 0;
+	width:100%;
+	Height:350px;
+	padding-top: 60px;
+	background-image: url('../img/bg/bg_grey_5.png');
+	background-repeat: repeat;
+	border-top-color: #ff7300;
+	border-top-width: 10px;
+	box-shadow: 0px -2px 10px #666;
+	color: #7f7977;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 9pt;
+	font-weight: 4	00;
+	line-height: 14pt;
+	padding: auto;
+}
+#fwrapper {
+	width: 1200px;
+	height:100%;
+	margin: auto;
+}
+
+#foot a {
+    text-decoration:none;
+    color: rgba(255, 138, 4, 0.7);
+}
+
+#foot a:hover {
+    text-decoration: none;
+    color: #ff8a04;
+}
+	
+#foot {
+	float: left;
+	width: 200px;
+}
+
+#foot h6 {
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 700;
+	margin-bottom: 12px;
+	color:#ff7300;
+	font-size: pt;
+}
+
+#foot b {
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 400;
+	margin-bottom: 8px;
+	color:#bfb5b3;
+	font-size: 9pt;
+}
+
+#foot.kaart {
+	float:left;
+	width:400px;
+	Height:300px;
+	background-image: url('../img/kaart/Kinda_wereldkaart.png');
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+#foot b.bc {
+	color:#bfb5b3;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 600;
+}
+
+#top { 
+    display: none;
+    z-index:99;
+    width:60px;
+    height: 20px;
+    position: fixed; 
+    bottom: 10px;
+    right: 10px; 
+    background-image: url('../img/icons/up_footer_.png');
+    background-repeat:no-repeat;
+    background-position:right;
+}
+
+#top:hover {
+    color: #bfb5b3;
+    width:60px;
+    height: 20px;
+    position: fixed; 
+    bottom: 10px;
+    right: 10px; 
+    background-image: url('../img/icons/up_footer_orange.png');
+    background-repeat:no-repeat;
+    background-position:right;
+}
