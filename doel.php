@@ -81,7 +81,7 @@
 
 <P>De grootste noodzaak is een degelijk onderwijs. Daarom is ons hoofddoel <b>&quot;sponsoring van een kindje om de studiekosten te helpen dragen&quot;</b><br>We steunen projecten bij het aankopen van schoolgerei, vernieuwing van een schooltje. Weliswaar kleinschalig, maar heel belangrijk voor die mensen.</P>
         
-<p>Rekeningnummer vzw Kindia: <br>Argenta: 979-5783915-04 </p>
+<p>Rekeningnummer vzw Kindia: <br>Argenta: IBAN BE10979578391504 </p>
         
         
 <h1>Ontstaan</h1> 
