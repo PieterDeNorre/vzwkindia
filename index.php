@@ -83,7 +83,7 @@
 
 <p>De <b>vzw Kindia</b> is gesticht op: <b>25/01/2006</b><br> Ondernemingsnummer: <b>0878 877606</b><br> 
 Locatie:<b> Bieststraat 7 | 8560 Wevelgem</b><br>
-Rekeningnummer: <b>979-5783915-04</b></p><br>
+Rekeningnummer: <b>IBAN BE10979578391504</b></p><br>
 <p>De vzw bestaat uit een groep dynamische mensen die zich inzet om straatkinderen en kinderen uit doodarme gezinnen een betere toekomst te geven.</p>
     
     
