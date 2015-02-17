@@ -1,6 +1,6 @@
 <h1>Reisverslag Kindia november 2014</h1>
 
-<div class="intro-verslag"><p class="verslag-intro"><b>Deelnemers:</b><br>Thérèse Dedeyne, Jean-Marie Vandendriessche, Marnic Desmet, Geert Voet & Kathleen Vansteenkiste, Marijke Paelinck, Claire Seynave, Annie Callez</p></div>
+<div class="intro-verslag"><p class="verslag-intro"><b>Deelnemers:</b><br>Th&eacute;r&egrave;se Dedeyne, Jean-Marie Vandendriessche, Marnic Desmet, Geert Voet &amp; Kathleen Vansteenkiste, Marijke Paelinck, Claire Seynave, Annie Callez</p></div>
 
 
 <div id="accordion">
@@ -27,8 +27,8 @@
 	<p>In het provinciaal huis worden we verwelkomd door F. UP Sesbatian, een goede vriend van vroeger in Bongaon en Saraswatipur.</p>
 	<p>Na een paar uurtjes slapen om 8u30 ontbijt.</p>
 	<p>Om 9u30 vertrek naar Bandel om de familie van Mitta te bezoeken. Haar broer heeft hart problemen. Wij ontmoeten haar ouders, andere familieleden en kennissen maar haar broer was gehospitaliseerd. Hij zou spoedig een operatie ondergaan, de dokters wachten de uitslag van het bloed af.</p>
-	<p>Na een ½ uur vertrekken we naar Don Bosco Bandel voor de lunch.</p>
-	<p>Na een rustpauze vertrekken we naar Kolkata. We mogen van geluk spreken dat er geen blokkagen zijn op de weg door het lichtfeest “DIWALI”.</p>
+	<p>Na een &frac12; uur vertrekken we naar Don Bosco Bandel voor de lunch.</p>
+	<p>Na een rustpauze vertrekken we naar Kolkata. We mogen van geluk spreken dat er geen blokkagen zijn op de weg door het lichtfeest &ldquo;DIWALI&rdquo;.</p>
 	<p>Hoewel de trein naar Rourkela pas om 9u30 vertrekt gaan we toch vroeger naar het station van Howrah, dit om niet opgehouden te worden door het verkeer en de religieuze processies als gevolg van het Hindi feest van Kali Puja en Diwali waarna de beelden naar de rivieren worden gebracht.</p>
 	<p>We eten lekkere croque-monsieur op het perron. Jean-Marie en Marnic maken een vechtpartij mee (van op afstand). Een arme man wil met een haak een baal met rijst open snijden die op een voorbij rijdende kar ligt maar wordt opgemerkt. De arme sukkel moet lopen voor zijn leven of hij wordt zelf open gereten.</p>
 </div>
@@ -60,7 +60,7 @@
 	<p>Op de terugweg naar Don Bosco brengen we een kort bezoek aan het &ldquo;Holy Cross&rdquo; klooster en drinken thee met de zusters. Er was een heerlijke taart in de vorm van een hart gebakken door de zusters voor mijn verjaardag.</p>
 	<p>Er zijn 350 meisjes in het internaat. Ze studeren aan de Don Bosco School en het VTI.</p>
 	<p>De dag eindigt met mijn verjaardagdiner samen met de paters en de zusters. <b>De champagne viel wel tegen&hellip;. echt fruitsap had beter geweest. Die paters daarentegen amai&hellip;. we kunnen er nog van leren.</b></p>
-	<p><b>Al bij al, er waren kosten nog moeite gespaard, spijs en drank, lekkere taart, happy birthday-song, en de poerfisters hangen waarschijnlijk nog tussen de schroeven van de ventilator.<b></p>
+	<p><b>Al bij al, er waren kosten nog moeite gespaard, spijs en drank, lekkere taart, happy birthday-song, en de poerfisters hangen waarschijnlijk nog tussen de schroeven van de ventilator.</b></p>
 </div>
 
 <div class="accordionButton"><h2>Woensdag 29 oktober</h2></div>
@@ -82,7 +82,7 @@
 
 <div class="accordionButton"><h2>Donderdag 30 oktober</h2></div>
 <div id="verslag2013" class="accordionContent">
-	<p>Om 5u ’s morgens was er overal muziek, vuurwerk en religieus gezang. Niet om ons wakker te maken,  maar dit is het gevolg van het voorbije Chhath puja feest. Bij zonsopgang aanbidden onze Hindoe vrienden de zon om de zegen te vragen aan God voor de vruchtbaarheid van de vrouwen.</p>
+	<p>Om 5u &#8217;s morgens was er overal muziek, vuurwerk en religieus gezang. Niet om ons wakker te maken,  maar dit is het gevolg van het voorbije Chhath puja feest. Bij zonsopgang aanbidden onze Hindoe vrienden de zon om de zegen te vragen aan God voor de vruchtbaarheid van de vrouwen.</p>
 	<p>Om 7u H.mis, ontbijt om 7u30.</p>
 	<p>Na het ontbijt vertrek naar de Engelse Middelbare school.</p>
 	<p>We worden opgewacht door 1600 jongens en meisjes samen met het personeel van de school.</p>
@@ -102,12 +102,12 @@
 <div class="accordionButton"><h2>Vrijdag 31 oktober</h2></div>
 <div id="verslag2013" class="accordionContent">
 	<p>Om 9u vertrek naar Shishu Bhavan bij de zusters van Moeder Theresa. 
-		We ontmoeten de 2 kinderen die geadopteerd zijn door Belgische ouders maar die nog steeds op de nodige documenten wachten. Nadien vertrek naar de New Market bij Jeet. Na het winkelen hebben we een lekkere lunch bij &lsquo;Jimmy’s Kitchen&rdquo;. Terug in het Provinciaal huis om 14u. Om 15u30 vertrek naar Don Bosco Krishnagar in twee wagens. <b>We hadden veel lol met onze chauffeur, hij vroeg zich af &ldquo;what do you do to my bottom&rdquo;  &hellip; hilariteit alom, ik vond namelijk de opening van de gordel niet en de rest kunnen jullie wel raden zeker&hellip;</b></p>
+	We ontmoeten de 2 kinderen die geadopteerd zijn door Belgische ouders maar die nog steeds op de nodige documenten wachten. Nadien vertrek naar de New Market bij Jeet. Na het winkelen hebben we een lekkere lunch bij &lsquo;Jimmy&#8217;s Kitchen&rdquo;. Terug in het Provinciaal huis om 14u. Om 15u30 vertrek naar Don Bosco Krishnagar in twee wagens. <b>We hadden veel lol met onze chauffeur, hij vroeg zich af &ldquo;what do you do to my bottom&rdquo;  &hellip; hilariteit alom, ik vond namelijk de opening van de gordel niet en de rest kunnen jullie wel raden zeker&hellip;</b></p>
 </div>
 
 <div class="accordionButton"><h2>Zaterdag 1 november</h2></div>
 <div id="verslag2013" class="accordionContent">
-	<p>Om 6u worden we gewekt door de “oorverdovende” bel van het internaat, v&eacute;&eacute;&eacute;&eacute;l <b>te vroeg voor ons</b>.</p>
+	<p>Om 6u worden we gewekt door de &ldquo;oorverdovende&rdquo; bel van het internaat, v&eacute;&eacute;&eacute;&eacute;l <b>te vroeg voor ons</b>.</p>
 	<p><b>Wacht maar :-/</b></p>
 	<p>Om 9u45 hebben we twee inhuldigingen; de eerste is de uitbreiding van de basisschool. Na de opening krijgen we een korte verwelkoming met zang en dans. Daarna de inhuldiging van de nieuwe drinkbare watervoorziening. Iedereen is blij dat de kinderen nu 24/24u natuurlijk koel drinkbaar water hebben. Hierna krijgt ieder kind een pakket met vijf verschillende Indische sweeties.</p>
 	<p>Don Bosco Krishnagar: een basisschool van KG tot klas IV 600 leerlingen, een hoge school van klas V tot X met 1600 leerlingen en een hoger secundaire school met 240 leerlingen.</p>
@@ -130,9 +130,9 @@
 <div class="accordionButton"><h2>Maandag 3 november</h2></div>
 <div id="verslag2013" class="accordionContent">
 	<p>De dag begint met een mooi cultureel programma van de schoolkinderen.<p>
-	<p>Gedurende 4 uren nemen we foto’s van onze sponsorkinderen in Bongoan en delen geschenken uit.</p>
-	<p>Na de lunch vertrekken we om 15u naar de grens waar we getuige zijn van het ceremoniële afhalen van de vlaggen van India en Bangladesh door de grenswacht. We worden als VIP’s behandeld. We krijgen stoelen ter beschikking en de hoofd commandant verwelkomt ons.</p>
-	<p>Het was een prachtig en zinvol gebeuren. Het gebeuren toont aan hoe broederlijk en begripvol beide landen zijn voor elkaar. Er waren gasten van beide landen elk aan ieders zijde in het niemandsland. Na de ceremonie krijgen we de kans om enkele foto’s te nemen samen met de Indische grenswacht.</p>
+	<p>Gedurende 4 uren nemen we foto&#8217;s van onze sponsorkinderen in Bongoan en delen geschenken uit.</p>
+	<p>Na de lunch vertrekken we om 15u naar de grens waar we getuige zijn van het ceremoniële afhalen van de vlaggen van India en Bangladesh door de grenswacht. We worden als VIP&#8217;s behandeld. We krijgen stoelen ter beschikking en de hoofd commandant verwelkomt ons.</p>
+	<p>Het was een prachtig en zinvol gebeuren. Het gebeuren toont aan hoe broederlijk en begripvol beide landen zijn voor elkaar. Er waren gasten van beide landen elk aan ieders zijde in het niemandsland. Na de ceremonie krijgen we de kans om enkele foto&#8217;s te nemen samen met de Indische grenswacht.</p>
 	<p>Bij de terugkeer gaan we nog een paar inkopen doen in Bongaon voor onze sponsorkinderen.</p>
 	<p><b>Kindia sponsort tevens voor een nieuwe goederenfiets, de oude is namelijk volledig verroest en heeft zelfs geen zadel meer.</b></p>
 </div>
@@ -147,136 +147,132 @@
 	<p><b>Jean-Marie herinnert de kinderen er aan dat Bongoan het eerste centrum was dat Kindia bezocht 12 jaar geleden. Zo ontstond het eerste sponsorschap. Hier startte Kindia de projecten.</b></p>
 </div>
 
-<div class="accordionButton"><h2>12 oktober 2013</h2></div>
+<div class="accordionButton"><h2>Woensdag 5 november</h2></div>
 <div id="verslag2013" class="accordionContent">
-<p>Mis om 8u.<br>
-Om 11.00am vertrek met Fr. George naar het Howrah station, Fr. Anand Raj en Mr. Michael komen helpen met de bagage. Om 2.12pm nemen we de dagtrein in Howrah de NJP - Sadapati Express. Het was een comfortabele airco trein. We eten koekjes, croissants, en bananen gekocht door Fr George want we durven ons niet riskeren tot het nuttigen van de voorziene maaltijden op de trein. Aankomst om 11.00pm, 30 minuten te laat. Dit was een rit van 8u.<br>
-Fr. Mathew George SDB wacht ons op in het station. We komen aan in Don Bosco Siliguri om 11.30pm; na een dorstlesser naar bed.</p>
+	<p>Daar we Bongaon verlaten om 9u komen we vroeg aan in Don Bosco Kalyani Ashalyam.</p>
+	<p>Na de verwelkoming geven wij de kinderen snoep, potloden en pennen.</p>
+	<p>We nemen foto&#8217;s van de sponsorkinderen. Er waren er maar twee te kort. E&eacute;n van Ranaghat en &eacute;&eacute;n van Kolkata. De zusters waren te laat gebriefd om de kinderen op tijd in Ashalyam te krijgen. Ze verblijven op internaat en gaan naar de Middelbare School.</p>
+	<p>We wachten nog op &eacute;&eacute;n sponsorkind en vertrekken om 15u naar Kolkata.</p>
+	<p>De dag is vlug voorbij en we nemen een betere weg naar Dum Dum.</p>
+	<p>Tijdens het avondeten ontmoeten we de nieuwe Provinciaal van Kolkata, Fr Nirmol Gomes sdb.</p>
+	<p>Na het avondeten hebben Th&eacute;r&egrave;se, Jean-Marie en Fr George een langer onderhoud met hem.</p>
 </div>
 
-<div class="accordionButton"><h2>13 oktober 2013</h2></div>
+<div class="accordionButton"><h2>Donderdag 6 november</h2></div>
 <div id="verslag2013" class="accordionContent">
-<p>Na het ontbijt ontmoeten we de andere Fathers van de gemeenschap. Om 8.45 vertrek naar Saraswatipur in gezelschap van Fr. Mathew George . Het ganse dorp staat ons op te wachten. Wij worden ontvangen op de traditionele manier met het wassen van de handen en de voeten. Nadien gaan we op de traditionele danspassen naar de gemeenschappelijke zaal.<br>
-Bij aankomst gaan we over tot de inhuldiging van het speelpark voor de kinderen door Th&eacute;r&egrave;se en Jean Marie. Nadien bezoek aan de cr&egrave;che. We spelen met de kinderen en overhandigen ballen en ander speelgerief. De ballen en fluiten zijn een gift van Kathleen en Geert. Nadien met de dorpsbewoners naar de gemeenschappelijke zaal voor de zondagsmis. De mis wordt opgedragen door Fr. Mathew George, FR. George Madathett en Fr. Xavier Lakra. Xavier Lakara werd tot priester gewijd in januari en hij is van Saraswatipur village. Kindia gaf ondersteuning voor de bouw van dit huis.</p>
-<p>Th&eacute;r&egrave;se, Marijke en ikzelf worden uitgenodigd voor de bediening van de offerande. Th&eacute;r&egrave;se eerst dan ik en achter mij Marijke en opeens rinkelderinkelderink wat zat er juist onder die pateen Marijke&hellip;.</p>
-<p>Na de mis worden we omgevormd tot echte tribals door het wassen van de handen en voeten met water en het oli&euml;n van het voorhoofd en haar met het bijkammen als gevolg. In de tribal gemeenschap is dit de beste manier om iemand te verwelkomen. Op deze manier wordt men lid van hun familie.</p>
-<p>De kinderen voeren verschillende culturele dansen op als bewijs van hun dank tegenover Kindia. Op het einde van het programma worden aan 40 studenten van klas VII de sleutels overhandigd van nieuwe fietsen. Deze fietsen worden enkel geschonken wanneer de kinderen geslaagd zijn voor hun eindexamen in class X. De fietsen zijn een gift van de Verin-Italy group.</p>
-<p>Na het cultureel programma wordt een eetmaal, gesponsord door Jean Marie, aangeboden voor 400 dorpelingen die aanwezig zijn om Kindia te begroeten.
-Kindia overhandigt ook nog aan de leraars sportartikelen, snoepjes en balpennen voor de kinderen die zij ten gepaste tijde kunnen uitdelen.</p>
-<p>Bij de terugkeer maken we een stop aan de Teesta Rivier die een breedte heeft van 4 km. Wij genieten van het zicht via twee spots, adembenemend.
-Nadien bezoek aan een nieuw dorp. Er zijn 300 tribal families en hun noodzaak is een gemeenschappelijke zaal met cr&egrave;che.<br>
-Na een stop op de dorpsmarkt waar we een boerke zijn laatste zwarte peper kopen, hij zegt &ldquo;this is my lucky day&rdquo;, keren we terug naar Don Bosco Siliguri.</p>
-<p><b>Saraswatipur: </b>Dit is een tribal dorp met 350 families allen thee-plukkers. Het is vijf jaar dat Kindia komt naar dit dorp, het dorp is veel veranderd sedert de komst van Kindia. Het volk is blij, gezond en de kinderen gaan naar school, de kleine kinderen hebben oppas terwijl de moeders werken op de thee-plantages. Dit alles dankzij <b>KINDIA</b>.</p>
-<p>Volgende activiteiten worden ondernomen in <b>Saraswatipur:</b>
-<ul>
-    <li>De gemeenschapszaal</li>
-    <li>school van maandag tot zaterdag van 8.30am to 1.30pm</li>
-    <li>120 kinderen</li>
-    <li>Klassen: KG, Klas 1,2,3,4</li>
-    <li>5 leraars</li>
-    <li>gemeenschappelijke meetings</li>
-    <li>zelfhulp groepen</li>
-    <li>kledij maken voor moeders van 7.00pm to 8.00pm</li>
-    <li>de zusters van Auxilium Siliugri gebruiken de zaal voor moeder en kind programma&#39;s</li>
-    <li>iedere avond zijn er coaching klassen</li>
-    <li>iedere zondag is er gebedsdienst</li>
- </ul>
-<b>De Cr&egrave;che:</b>
-<ul>
-    <li>30 kleine kinderen</li>
-    <li>twee moeders die oppassen</li>
-    <li>voedsel voor de kinderen</li>
-    <li>wanneer nodig wordt er medische zorg gegeven</li>
-    <li>openingsuren van 7.00am tot 5.00pm</li>
-</ul>
-<b>De speeltuin:</b>
-<ul>
-    <li>Nieuwe gift van Kindia</li>
-    <li>Openingsuren van 7am tot 4.pm voor de schoolkinderen</li>
-    <li>Andere uren en op zondag ook voor de kinderen van het dorp</li>
-</ul>
-<b>Toekomstplan:</b>
-<ul>
-    <li>Bouw van een gemeenschappelijke zaal en cr&egrave;che in KD line Village</li>
-    <li>Er zijn meer dan 300 famlies</li>
-    <li>Het zijn allemaal tribals (lokale bevolking) en werken in de thee plantages.</li>
-</ul>
+	<p>Vertrek om 9u met twee wagens naar Don Bosco Main Ashalayam.</p>
+	<p>De kinderen verwelkomen ons en dan starten we met de foto-sessie.</p>
+	<p>Alle sponsorkinderen zijn aanwezig.</p>
+	<p>De geschenken die de sponsorouders meegaven worden aan de respectievelijke kinderen overhandigd en allen krijgen ook nog een Kindia T-shirt en balpennen.</p>
+	<p>Na een kort bezoek aan de bakkerij en de schrijnwerkerij vertrekken we naar het Provinciaal huis om 11u30.</p>
+	<p>Na de lunch hebben Jean-Marie en Th&eacute;r&egrave;se nog een onderhoud met Fr Nirmol Gomes.</p>
+	<p>Om 15u brengt de groep een bezoek aan de sloppenwijk in de buurt.</p>
+	<p>Na het avondeten vertrek naar Sealdah station voor de Darjeeling Mail naar Siliguri.</p>
 </div>
 
-<div class="accordionButton"><h2>14 oktober 2013</h2></div>
+<div class="accordionButton"><h2>Vrijdag 7 november  </h2></div>
 <div id="verslag2013" class="accordionContent">
-<p>Mis om 8u.<br>
-Th&eacute;r&egrave;se en Claire hebben hun ook overslapen.</p>
-<p>Regen, regen en nog eens regen de uitloper van de Tyfoon.<br>
-Om 10.00am vertrek naar Jesu Ashram in Matigaragh, Siliguri samen met Fr. Mathew George en Fr. George. De directeur van het instituut geeft een rondleiding langs de verscheidene afdelingen, zowel de vrouwelijke als de mannelijke, waar de zieken worden verzorgd en ook de lepra- en de tuberculose afdeling. Verschillende bedden zijn leeg door de Puja feesten.<br>
-Ze gaan dan naar huis om de pujas (goden) te vieren samen met hun dierbaren.</p>
-<p>We nemen ook een kijk in het in opbouw zijnde lepra gebouw. Tenslotte gaan we naar het kantoor van de directeur waar we thee worden aangeboden en we besluiten om 5 kinderbedden te sponsoren (= 1 jaar recht op ziekbed + verzorging + medicatie) voor het jaar 2013-14.<br>
-Om 2.30 pm betaalt de groep een bezoek aan het MGN centrum gebouwd met de hulp van Kindia. Door de pujas is er geen programma. De leden komen pas de eerste week van november terug.<br>
-MGN Centrum wordt gebruikt voor verchillende animatie programma&#39;s en voor raadgevingen voor degene die be&iuml;nvloed worden door drugs enz&hellip; Volgend jaar zal er een voltijdse Salesian aangesteld worden. De moeder en kind programma&#39;s worden gerealiseerd door het MGN centrum dit wordt opgevolgd door Fr. Mathew George sdb.</p>
-<p>Vandaar gaan we naar de kinderen van prostituees die onder de hoede zijn van de Zusters van Adorers, een Spaanse congregatie. De naaimachines geschonken aan het MGN centrum zijn in dit centrum en de zusters geven naailessen aan de lokale, arme meisjes en de kinderen van prostituees.</p>
+	<p>Fr Mathew George wacht ons op aan het station. We komen aan om 8u55, de trein is 30 minuten te laat. We worden opgepikt in Nazareth Bhavan maar hebben alle maaltijden in het Salesian College Campus Siliguri.</p>
+	<p>Na de lunch vertrek naar Jesu Ashrem. Na een korte verwelkoming bezoeken we de nieuwe lepra-vleugel met de naam St. Damiaan Memorial. We zijn onder de indruk van de netheid en de klinische noodzaken van dit hospitaal. Een deel van het oude gebouw is behouden voor de zorg van de ergste gevallen. Na een maand gaan ze naar de nieuwe afdeling voor betere medicatie.</p>
+	<p>De HIV afdeling is gesloten vermits de staat geen steun meer geeft.</p>
+	<p>De staat wilt dat de zieken naar de staatshospitalen gaan om medicatie en verzorging.</p>
+	<p>Deze vleugel is nu herschilderd en wordt de tuberculose-vleugel. De vroegere tuberculose-vleugel wordt afgebroken.</p>
+	<p>Nadien bezoeken we de hoofdafdeling die ook volledig gerenoveerd is met granieten vloeren en betegelde muren. Op het eerste verdiep van dezelfde vleugel bevindt zich de Algemene Verplegersopleiding.</p>
+	<p>Na het bezoek van alle afdelingen ontmoeten we terug de directeur en sommigen van ons sponsoren een bed voor een kind in het hospitaal. Dit jaar is het 25,000 RS per bed. In totaal zijn er drie bedden gesponsord door Kindia.</p>
+	<p>Terug in Don Bosco en na enige verfrissing trekt de ganse groep naar Silliguri om nog inkopen te doen voor de sponsorkinderen.</p>
 </div>
 
 
-<div class="accordionButton"><h2>15 oktober 2013</h2></div>
+<div class="accordionButton"><h2>Zaterdag 8 november</h2></div>
 <div id="verslag2013" class="accordionContent">
-<p>Mis om 8u.<br>
-Om 11.30am brengt Fr. Mathew George ons naar de Bodogra vlieghaven en om 2.30pm stijgen we op naar Guawhati. Het was Spicejet flight No 881. We landen in Guawhati om 4.30pm en vertrekken naar Shillong met een priv&eacute; mini-bus, en wat voor &eacute;&eacute;n. Na een rit van 4 uur aankomst in het Mathias Instituut in Mawlai waar we verwelkomd worden door Fr. James en een hele cort&egrave;ge met o.a. vader hippie of de zwarte Sint?.<br>
-Avondmaal een beetje met lange tanden. De vermoeidheid begint te wegen, gevolg: slappe lach en paniek van onze apothekeres die haar medicatie niet terug vindt.</p>
+	<p>Uitstap naar de Easter Boarder - Buthan. Tijdens de rit prachtige uitzichten, we rijden door het grootste woud van India met het meeste aantal olifanten en apen. <b>Dringende sanitaire stop voor Th&egrave;rese en Marijke eerst den dieperik in en dan klauteren en klimmen&hellip;.</b></p>
+	<p>Onderweg bezoeken we een rubberplantage.</p>
+	<p>Het eindpunt is juist op de grens van Buthan waar we een hydraulische elektriciteitscentrale met stuwdam bezoeken. We lunchen in het Singlare Hotel, dan terug naar Don Bosco.</p>
 </div>
 
-<div class="accordionButton"><h2>16 oktober 2013</h2></div>
+<div class="accordionButton"><h2>Zondag 9 november</h2></div>
 <div id="verslag2013" class="accordionContent">
-<p>Mis om 8u.<br>
-<b>KINDIA</b> en Fr. George verlaten Chirapunjee om 9.30 am voor een rit van 60 km. Onderweg aanschouwen we de mooie natuurgebieden van Shillong. Opvallend mooiere huisjes, properder, ander volk en de zon, gepaste temperatuur. 20 km buiten Shillong hebben we een stop voor het mooie zicht op de Kassi hills. Om 11.00 am bereiken we het Don Bosco Chirapunjee en het schrijn (relikwie) van Don Bosco. Na een korte sanitaire stop rijden we door naar de watervallen in Chirapunjee. Het Indische paradijs.</p>
-<p>Dit is de plaats waar over de hele wereold het meeste regen valt en in de valleien zien we het waterbekken van Bangladesh. Nadien gaan we naar een volgende plaats waar we nog een mooier zicht hebben op Bangladesh. Een beetje tegenslag, doordat de meeste regenval de laatste veertien dagen uit bleef waren de watervallen (7) niet zo spectaculair.<br>
-Nadien lunch op een toeristische plaats waar we tevens een bezoek brengen aan een grot, natuurlijk gevormd na jaren waterval (Cave - om armen en voeten te breken!)</p>
-<p>Om 3.00 verlaten we Chirapunjee en doen aan site seeing in Shillong city, nadien naar Don Bosco Shillong. Hier was het eerste Don Bosco Instituut in India. Momenteel is er een technische school met 600 studenten, een lagere school met 1600 studenten , 1800 studenten in de hoge en secundaire school en 210 jongens op internaat, grotendeels van de technische en de hoge school. Daar het al laat is gaan we terug naar het Mathias Instituut en maken nog een avondwandeling in het dorp.<br>
-Na het avondeten een gezamenlijke drink met de paters.</p>
-<p>De witte wijn van Claire (een volle fles) had voetjes gekregen&hellip; . waarschijnlijk is de H. Geest er mee gaan lopen. Gelukkig was er nog miswijn in het Instituut en het smaakte ook h&eacute; Claire.</p>
+	<p>De belangrijkste dag voor Kindia, het bezoek aan Saraswatipur. Bij het binnenkomen van het dorp worden we opgewacht door lange rijen dorpelingen met hun lokale trommels en gekleurde parasols. We worden traditioneel begroet door het wassen van de handen, het aanbrengen van de tigga op het voorhoofd en de bloemenkrans. We worden begeleid met tromgeroffel en lokale dans tot aan de gemeenschappelijke zaal en de kindercr&egrave;che. De kinderen in de cr&egrave;che krijgen snoepjes en nieuw speelgoed. De kinderen geven een kort programma en overhandigen ons uit dank een pak the.</p>
+	<p>Kindia trakteert alle kinderen en dorpelingen met een maaltijd, in totaal 450.</p>
+	<p>Ze krijgen rijst, dall, kip, banaan, cake en Indisch gebak.</p>
+	<p>Nadien ontmoeten we het meisjes Rugby Team van Saraswatipur. Zij behaalden de titel van de Nationale Rugby in Nagpur. Vier van de speelsters zijn uitverkozen voor het Nationaal Rugby Team van India te vertegenwoordigen tijdens het Aziatisch Rugby Tornooi.</p>
+	<p>Na het afscheid bezoeken we nog de lokale dorpsmarkt.</p>
+	<p>Om 18u verlaten we Don Bosco naar het NJP station voor de Darjeeling mail naar Kolkata.</p>
 </div>
 
-<div class="accordionButton"><h2>17 oktober 2013</h2></div>
+<div class="accordionButton"><h2>Maandag 10 november</h2></div>
 <div id="verslag2013" class="accordionContent">
-<p>Mis om 8 u.<br>
-Wegens de 24u staking in Shillong gaan we te voet naar de Sacred Heart Theological college. Daar krijgen we een begeleide toer in het Don Bosco Museum. We spenderen 3 uren om al de galleries te bezoeken en we eindigen met een terraswandeling en een mooi panoramisch zicht over de stad Shillong.<br>
-Om 3.30 gaan we naar het Savio Juniorate. Dit is een seminarie waar jonge jongens studeren voor priester. We worden ontvangen met de hele fanfare en nadien uitgenodigd voor de thee.<br>
-Vermits er geen verkeer op straat was nog een leuke avondwandeling gemaakt.<br>
-Bij het avondeten danken we de Fathers van het Mathias Instituut voor hun gastvrijheid en wensen hen het beste met hun toegewijde werk.</p>
+	<p>De volgende morgen bereiken we Kolkata rond 8u30.</p>
+	<p>Na het ontbijt gaan we naar de New Market voor de laatste aankopen.</p>
+	<p><b>Marnic en Jean-Marie laten hun baard vertroetelen bij een lokale barbier, een heel ritueel en tevens een echte belevenis, dit voor nog geen &frac12; &euro;!</b></p>
+	<p>Om 20u hebben we het laatste avondmaal met al de Frs van Don Bosco Provinciaal Huis. Fr Nirmol Gomes, de nieuwe Principaal was ook van de partij. Het diner was een traktaat van Kindia.</p>
 </div>
 
-<div class="accordionButton"><h2>18 oktober 2013</h2></div>
+<div class="accordionButton"><h2>Dinsdag 11 november</h2></div>
 <div id="verslag2013" class="accordionContent">
-<p>7u ontbijt.<br>
-Om 7.30am vertrek naar de vlieghaven van Gwuhati met vlucht 6E 322 om 3.20pm, normaliter een rit van 3u maar het ging super vlot nu. Landing in Kolkota om 4.00 pm. Frs. Mathew George en Anand Raj wachten ons op. Aankomst in het Provinciaal Huis om 5.00 pm.</p>
-<p>Het was bij de thuiskomst nogal een beschimmelde bedoening vooral bij Th&eacute;r&egrave;se, Jean Marie en Marnic.</p>
+	<p>Om 9u30 vertrek naar de Luchthaven richting Kathmandu.</p>
+	<p>Voor het opstijgen word ik gepolst of ik de nooddeur wil openmaken bij neerstorting van het vliegtuig, geen wonder dat ik zo comfortabel zat, ik kon de beentjes goed strekken. Enfin ik akkoord, goed geluisterd wat ik moest doen in geval van&hellip; <b>of ik samen met de deur ging jumpen dat heb ik gelukkig niet moeten bewijzen.</b></p>
+	<p>Door het heldere weer kunnen we tijdens de vlucht het mooie gebergte de Himalaya, de Mount Everest en de Kanjuchuga aanschouwen. Een lust voor het oog.</p>
+	<p>Fr Jijo en Fr Tom van Don Bosco Thecho wachten ons op. In de aankomsthall ontmoeten we drie Italiaanse Duitsers die ook naar Don Bosco Thecho gaan. We helpen hen, &eacute;&eacute;n iemand is zijn bagage kwijt. We waren dus met twaalf.</p>
+	<p>Bij het diner worden we verwelkomt door de rector Fr Suman en Fr Jijo de direkteur van Don Bosco Thecho.</p>
 </div>
 
-<div class="accordionButton"><h2>19 oktober 2013</h2></div>
+<div class="accordionButton"><h2>Woensdag 12 november</h2></div>
 <div id="verslag2013" class="accordionContent">
-<p>Mis om 8u.<br>
-Om 10.00 vertrek in twee wagens naar de Birla Tempel in Kolkata. Na het bezoek aan de tempel doen we nog de laatste aankopen in de New Market. Wij bezoeken ook de beste bakkerij van Kolkata, de vlees- en de vismarkt. Mr Felix Augustine, een vriend van Kindia, houdt ons gezelschap bij het shoppen. Lunch bij de chinees.<br>
-Mr. Jeet, samen met zijn echtgenote, trakteert ons op het avondmaal in de Kolkata boating club, een britse time club in Kolkata.</p>
-<p>Amaai wat was me da jong die zouden eens naar het casino in Oostende of Middelkerke moeten komen.</p>
+	<p>Vandaag bezoeken we de tempel-heuvel in Nepal, met de oudste hindoe tempels en een boeddhistische Stupa. De legende vertelt dat lang geleden een Tibetaanse monnik deze heuvel ontdekte en bovenaan aanschouwde hij een meer omgeven door heuvels. Hij keerde terug naar Tibet en bracht een aantal monniken mee, maakte een bres in de heuvel en liet zo al het water doorvloeien. Toen ontstond in de vallei de grote stad Kathmandu. In feite is er is dus maar &eacute;&eacute;n uitweg voor het water.</p>
+	<p>Het is een plaats vol met kleine hindoe tempels, kleine boeddha beelden, de belangrijkste hindoe tempel en de boeddhistische Stupa. Nergens ter wereld vindt men zo een combinatie. De Stupa maakt deel uit van het UNESCO werelderfgoed.</p>
+	<p>De ganse heuvel is bevolkt door apen. Deze storen de bezoekers niet en worden gevoed door de passanten. Er zijn veel winkeltjes met Tibetaanse kunst en Tibetaanse muziek.</p>
+	<p>Vandaar gaan we naar de grootste Stupa in Kathmandu. Er zijn veel Tibetaanse kunst shops en Tibetaanse muziek.</p>
+	<p>Nadien lunch en om 17u terug naar Don Bosco Thecho waar de schoolkinderen ons verwelkomen met een kort maar mooi programma.</p>
 </div>
 
-<div class="accordionButton"><h2>20 oktober 2013</h2></div>
+<div class="accordionButton"><h2>Donderdag 13 november </h2></div>
 <div id="verslag2013" class="accordionContent">
-<p>Mis om 8u.<br>
-Valiezen pakken en nog een bezoek aan de sloppenwijken rond het Provincial house en ook nog eens langs geweest bij het Indisch meisje en haar gezin. Na het eten in het Provinciaal Huis, Kolkata brengt Fr. George ons naar de vlieghaven van Kolkata.</p>
+	<p><b>Er was er een lichte aardbeving rond 7u.</b></p>
+	<p>Vertrek om 9u naar een panoramisch zicht.</p>
+	<p><b>Marijke is een beetje wagenziek.</b> Het is een lange rit van 2u30. Onderweg vroegen we ons af of we de bergen zouden zien want in Thecho was de lucht niet zo zuiver. Tijdens de rit doorkruisen we lieftallige charmante bergdorpjes. Maar bij aankomst in Nagarakot  zien we klaar en duidelijk de wonderbaarlijke Himalaya in al haar glorie vlak voor ons. We gaan naar het beste gezichtspunt in Nagarakot, 1925m boven de zeespiegel. Spijtig genoeg konden we door de wolken de Kanjunchunga en de Everest niet duidelijk zien. We wachten nog twee uren maar het mocht niet baten. Toch zijn we zeer tevreden met het panorama.</p>
+</div>
+
+<div class="accordionButton"><h2>Vrijdag 14 november</h2></div>
+<div id="verslag2013" class="accordionContent">
+	<p>Kathmandu Valley had in de 15e eeuw drie kleine Koninkrijken: Bhakatpur, Patton en Kathmandu.</p>
+	<p>In de 16e eeuw verovert het Koninkrijk Kathmandu de andere twee Koninkrijken in de vallei en ook andere kleine Koninkrijken buiten de vallei; zo ontstaat het Verenigd Koninkrijk Nepal.</p>
+	<p>Na het ontbijt gaan we naar het Bhakatpur Paleis. Wij gaan niet binnen vanwege de hoge ingangsprijs maar zien het paleis en de tempels langs de buitenkant en hebben zo een mooier zicht op de stad.</p>
+	<p>Na een rit van 45min. bereiken we het volgende Koninkrijk Patton waar we de oude paleizen zien, nu een museum, verschillende tempels, de marktplaats juist naast en voor het belangrijkste paleisgebouw.</p>
+	<p>Na een rit van 30min. zijn we aan het belangrijkste paleis. Hier bezoeken we eerst het huis van de Meisjesgodin. De drie Koninkrijken kiezen een klein meisje uit tot godin. Ze krijgt een huis en wordt verzorgd door het volk. Iedere dag toont ze zich aan het volk via een klein raampje en slechts &eacute;&eacute;nmaal per jaar komt ze naar buiten voor een religieuze processie. Bij haar puberteit wordt ze door een ander meisje via een wedstrijd vervangen. De ex-godin wordt verbannen uit de Kathmandu Vallei en normaal wil niemand haar huwen omdat zij ongeletterd is. Trouwens wie wil een ex-godin huwen?</p>
+	<p>Deze traditie wordt nu enkel nog toegepast in Kathmandu en niet in de andere twee Koninkrijken.</p>
+	<p>Nadien bezoeken we het paleis, nu een museum.</p>
+	<p>Na de lunch terug naar Don Bosco Thecho.</p>
+</div>
+
+<div class="accordionButton"><h2>Zaterdag 15 november</h2></div>
+<div id="verslag2013" class="accordionContent">
+	<p>Na het ontbijt gaan we naar de heiligste plaats van de Hindoes, Pashupati, tevens de bron van de Ganges rivier. Hier verbrandt men de lijken en er worden ook zieke dodelijke mensen  naar hier gebracht om ze te laten sterven met hun voeten in de heilige rivier. Ze geloven dat wanneer ze op deze wijze sterven ze een betere re&iuml;ncarnatie hebben in hun volgende leven. Er is ook een plaats voorzien waar enkel en alleen de Koninklijke familie gebruik mag van maken. Er is volk om de zieke of dode mensen naast of in de rivier te brengen. Natuurlijk worden deze hiervoor betaald.</p>
+	<p>We bezoeken ook nog het Narayanhiti  Paleis waar in 2001 de ganse koninklijke familie werd uitgemoord. Het is nu een museum maar buiten de troonzaal is alles slecht beheerd en niet onderhouden. Gelukkig zijn er voor de geschiedenis vele foto&#8217;s aan de muren.</p>
+	<p>Nadien site-seeing door Kathmandu en terug naar Don Bosco. Na de lunch nog een korte ontmoeting met Fr George om de verdere sponsoring en projecten van Kindia te bespreken.</p>
+	<p><b>Marnic eerst baard mooi gezet in India, nu nog de haarsnit in Nepal en klaar voor België.</b></p>
+	<p>Wij hebben in Kolkota onze vlucht QR 0651 om 23u45.</p>
+</div>
+
+<div class="accordionButton"><h2>Zondag 16 november</h2></div>
+<div id="verslag2013" class="accordionContent">
+	<p>We komen aan op de Internationale luchthaven Doha (de Arabische Emiraten) in al zijn pracht en praal je kan er van de vloeren eten en uit de toiletten drinken, wat een contrasten met India.</p>
+	<p>Vermits er een lange tussentijd is voor de vlucht naar België, worden we door Qatar Airways per busje naar een luxe hotel &ldquo;Retaj Al Rayyan&rdquo; gebracht voor een paar uren rust.</p>
+	<p>Om 8u15 hebben we onze vlucht QR 0193 naar Brussels Airport.</p>
+	<p>Aankomst om 13u15 waar wij samen nog een pint nuttigen en dan richting home.</p>
 </div>
 
 <div class="accordionButton"><h2>Onze leukste versprekingen</h2></div>
 <div id="verslag2013" class="accordionContent">
-<p>small fellow - leren rijden met de velo<br>
-sjapati - cr&egrave;me p&auml;t&eacute;<br>
-Turner = draaier - turner<br>
-Amy Winehouse - wijnhuis<br>
-Don Bosco - Don Blosco<br>
-Boxspring - springbox<br>
-Kleine cocosnoot - jong van een cocosnoot</p>
-<p>Da Jesus beste mensen twas wat dat was en <b>TE WA DAT E</b></p>
-<p>Danjabad aan de ganse groep en vooral Th&eacute;r&egrave;se en Jean Marie, blij dat ik erbij mocht zijn.
-Mijn kamergenootje Marijke ook een bijzondere merci.<br><br>
+<p>Meal - deal<br>
+Caca&iuml;ne - coca&iuml;ne<br>
+De ondergaande zon die opkomt&hellip;<br>
+Sponskaart - ponskaart<br>
+Wat ga je doen - good afternoon<br>
+Patio - puja<br>
+Oliebanden - autobanden<br>
+Luchtballon - gewone ballon</p>
+<p>Dank aan iedereen en vooral blij dat we onze sponsorkinderen terug gelukkig hebben gemaakt.<br><br>
 Annie</p>
 </div>
 
