@@ -1,6 +1,6 @@
 <div id="evenementen">	
 		<div id ="contentevenementen" class="first">
-			<h2><span id="date">12/O3/2016</span> <br><br>
+			<h2><span id="date">18/O3/2017</span> <br><br>
 			Kaas- en  <br>
 			Wijnavond</h2><br>
 

@@ -24,6 +24,7 @@
 </head>
 
 <body id="project">
+<?php include "includes/analyticstracking.php" ?>
 		
 <script type="text/javascript">
         

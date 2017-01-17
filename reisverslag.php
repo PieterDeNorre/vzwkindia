@@ -24,23 +24,7 @@
 </head>
 
 <body id="verslag">
-
-<script type="text/javascript">
-
- $(document).ready(function(){
- $(window).scroll(function(){
-  // get the height of #wrap
-  var h = $('#verslag').height();
-  var y = $(window).scrollTop();
-  if( y > (h*.5) && y < (h*.95) ){
-   // if we are show keyboardTips
-   $("#top").fadeIn("slow");
-  } else {
-   $('#top').fadeOut('slow');
-  }
- });
-})
-</script>
+<?php include "includes/analyticstracking.php" ?>
 <?php include "includes/header.php" ?>
 <?php include "includes/navbar.php" ?>
 
@@ -115,5 +99,6 @@
 </div><!-- END wrapper -->
 
 <?php include "includes/footer.php" ?>
+<script src="js/scrollWindow.js" type="text/javascript"></script>
 </body>
 </html>
