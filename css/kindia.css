@@ -849,9 +849,14 @@ nav a:hover, nav a:focus {
 }
 #sponsor {
 	height:100px;
-	width: 150px;
+	width: 120px;
 	float: left;
-	margin-right: 45px;
+	margin-right: 40px;
+}
+div#sponsor.joker {
+	background-image: url('../img/steunvan/Joker.png'); background-repeat:no-repeat;
+	background-position: center;
+	background-size: 100%;
 }
 div#sponsor.vlaanderen {
 	background-image: url('../img/steunvan/Vlaanderen.png');

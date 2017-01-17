@@ -90,8 +90,8 @@
 
 	<b>Don Bosco Ashalayam</b><br>
 	Ratan Baroi<br> 
-	<b class="bc">@</b> <a href="mailto:dbasha@vsnl.com">dbasha@vsnl.com</a><br> 
-	<a href="http://www.ashalayam.org">www.ashalayam.org</a><br> 
+<!-- 	<b class="bc">@</b> <a href="mailto:dbasha@vsnl.com">dbasha@vsnl.com</a><br>
+	<a href="http://www.donboscoashalayam.org" target="_blank">www.donboscoashalayam.org</a><br>  -->
 	</div>
 	
 	<div id="foot" class="kaart"></div>
@@ -112,6 +112,7 @@
 	<div id="steun">
 	<div id="steuninner">
 		<h6>Met steun van:</h6>
+		<div id="sponsor" class="joker"></div>
 		<div id="sponsor" class="vlaanderen"></div>
 		<div id="sponsor" class="tielt"></div>
 		<div id="sponsor" class="wevelgem"></div>
