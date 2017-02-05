@@ -8,7 +8,7 @@ $adres = stripslashes($_POST['adres'])."\r\n";
 $volwassenen = stripslashes($_POST['volwassenen'])."\r\n";
 $kids = stripslashes($_POST['kids'])."\r\n";
 
-$subject = "Inschrijving Barbeque Kindia 2014";
+$subject = "Inschrijving Barbeque Kindia " .date("Y");
 $host = "jmvwevelgem@skynet.be";
 
 $body = <<<EOD
