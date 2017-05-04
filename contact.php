@@ -23,7 +23,7 @@
     <div id="wrapper">
       <div id="content">
         <?php include "includes/form/info.php" ?>
-        <?php include "includes/form/kaas.php" ?>
+        <?php include "includes/form/bbq.php" ?>
       </div>
     </div>
     <?php include "includes/footer.php" ?>

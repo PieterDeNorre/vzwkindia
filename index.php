@@ -17,7 +17,7 @@
 <?php include "includes/analyticstracking.php" ?>
 <?php include "includes/header.php" ?>
 <?php include "includes/navbar.php" ?>
-<script src="js/social.js"></script></script>
+<script src="js/social.js"></script>
 <div id="wrapper">
 	<div id="nav">
         <div id="prev"></div>
@@ -31,7 +31,7 @@
 			<div ><img src="img/homeslideshow/groep_1.jpg"></div>
 		</div>
 	</div>
-    <?php include "includes/ev_kaas.php" ?>
+    <?php include "includes/ev_bbq.php" ?>
     <div id="content">
         <h1>Welkom</h1>
         <P>Het kind behoort onder alle omstandigheden tot de eersten die recht hebben op bescherming en hulp. Het kind moet beschermd worden tegen alle vormen van verwaarlozing, wreedheid en uitbuiting.</P>

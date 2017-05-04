@@ -1,6 +1,6 @@
 <div id="evenementen">
 	<div id ="contentevenementen" class="first">
-		<h2><span id="date">10/O9/2016</span> <br><br>
+		<h2><span id="date">9/O9/2017</span> <br><br>
 		BARBEQUE</h2><br><br>
 		<span id="orange">Porseleinhallen</span><br>
 		Cultuurpad 1<br>

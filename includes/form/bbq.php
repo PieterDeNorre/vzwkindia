@@ -1,6 +1,6 @@
 <div id="formbarbeque">
     <h1>Inschrijving barbeque</h1>
-    <h2>Datum: 10/09/2014</h2><p><i>*</i> verplichte velden</p>
+    <h2>Datum: 9/09/2017</h2><p><i>*</i> verplichte velden</p>
     <form id="formbbq" method="post" action="php/mailbbq.php">
         <label for="naam">Naam<i>*</i></label>
         <input type="text" name="naam" placeholder="Naam" id="naam" required="Naam"/><br>
